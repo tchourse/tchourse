@@ -1,4 +1,6 @@
-<!-- Animated Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bidgar)](https://git.io/typing-svg)
+###### Glad to see you here :heart:
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1;">
     <h1 style="font-size: 3em; color: lightblue;" id="animated-text">
