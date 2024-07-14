@@ -3,9 +3,6 @@
 ###### Glad to see you here :heart:
 <!-- Animated Header -->
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Animated GIF" style="max-width: 100%; height: auto;">
-  </div>
   <div style="flex: 1;">
     <h1 style="font-size: 3em; color: lightblue;" id="animated-text">
       Hi there! 👋 I'm Tushar
@@ -36,5 +33,8 @@
       <li><a href="https://www.instagram.com/tushar10.xd?igsh=MWJwNWR1NXdvcnY3Ng=="><img src="https://img.shields.io/badge/Instagram-Follow-red"></a></li>
     </ul>
     <p>Feel free to explore my repositories and reach out! Let's create something awesome together. ✨</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media2.giphy.com/media/1iTJkT0h9xI3XW0ZCs/giphy.gif" alt="Animated GIF" style="max-width: 100%; height: auto;">
   </div>
 </div>
