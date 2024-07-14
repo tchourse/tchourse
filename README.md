@@ -28,9 +28,9 @@
     </ul>
     <h2>Let's Connect:</h2>
     <ul>
-    <li><a href="mailto:tchourse@gmail.com"><img src="https://img.shields.io/badge/Email-Me-9cf?style=flat-square"></a></li>
-<li><a href="https://www.linkedin.com/in/tushar-chourse-026973250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square"></a></li>
-<li><a href="https://www.instagram.com/tushar10.xd?igsh=MWJwNWR1NXdvcnY3Ng=="><img src="https://img.shields.io/badge/Instagram-Follow-red?style=flat-square"></a></li>
+ <li><a href="mailto:tchourse@gmail.com"><img src="https://img.shields.io/badge/Email-Me-9cf?style=for-the-badge"></a></li>
+<li><a href="https://www.linkedin.com/in/tushar-chourse-026973250"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a></li>
+<li><a href="https://www.instagram.com/tushar10.xd?igsh=MWJwNWR1NXdvcnY3Ng=="><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge"></a></li>
     </ul>
     <p>Feel free to explore my repositories and reach out! Let's create something awesome together. ✨</p>
   </div>
