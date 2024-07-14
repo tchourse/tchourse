@@ -1,5 +1,6 @@
-<img align="right" alt="Coding" width="300" height="220" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Tushar+Chourse)](https://git.io/typing-svg)
+<img align="right" alt="Coding" width="300" height="220" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1;">
     <h1 style="font-size: 3em; color: lightblue;" id="animated-text">
