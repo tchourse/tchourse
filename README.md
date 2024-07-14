@@ -1,4 +1,9 @@
-<!-- Animated Header -->
+<img align="right" alt="Coding" width="350" height="220" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bidgar)](https://git.io/typing-svg)
+
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1;">
     <h1 style="font-size: 3em; color: lightblue;" id="animated-text">
