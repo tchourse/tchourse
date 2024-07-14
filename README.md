@@ -1,6 +1,3 @@
-### Hey there :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bidgar)](https://git.io/typing-svg)
-###### Glad to see you here :heart:
 <!-- Animated Header -->
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1;">
@@ -16,14 +13,14 @@
     <ul>
       <li>🔧 Technologies I work with:</li>
       <ul>
-        <li><img src="https://img.shields.io/badge/HTML-Orange?style=for-the-badge&logo=html5"></li>
-        <li><img src="https://img.shields.io/badge/CSS-Blue?style=for-the-badge&logo=css3"></li>
-        <li><img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=javascript"></li>
-        <li><img src="https://img.shields.io/badge/Django-Green?style=for-the-badge&logo=django"></li>
-        <li><img src="https://img.shields.io/badge/Bootstrap-Purple?style=for-the-badge&logo=bootstrap"></li>
-        <li><img src="https://img.shields.io/badge/SQL-Red?style=for-the-badge&logo=mysql"></li>
-        <li><img src="https://img.shields.io/badge/XAMPP-Blueviolet?style=for-the-badge&logo=xampp"></li>
-        <li><img src="https://img.shields.io/badge/C++-Blue?style=for-the-badge&logo=c%2B%2B"></li>
+        <li><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></li>
+        <li><img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/XAMPP-%230a5c26.svg?style=for-the-badge&logo=xampp&logoColor=white"></li>
+        <li><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></li>
       </ul>
     </ul>
     <h2>Let's Connect:</h2>
