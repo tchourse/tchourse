@@ -6,7 +6,9 @@
 </div>
 
 <!-- About Me Section -->
-Hi, I'm Tushar! Passionate about Web Development. Currently, I'm learning .NET API and Android development.
+Hi, I'm Tushar! 
+Passionate about Web Development.
+Currently, I'm learning .NET API and Android development.
 
 ## What I Do:
 - 🔧 Technologies I work with:
