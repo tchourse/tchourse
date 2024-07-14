@@ -34,7 +34,4 @@
     </ul>
     <p>Feel free to explore my repositories and reach out! Let's create something awesome together. ✨</p>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media2.giphy.com/media/1iTJkT0h9xI3XW0ZCs/giphy.gif" alt="Animated GIF" style="max-width: 100%; height: auto;">
-  </div>
 </div>
