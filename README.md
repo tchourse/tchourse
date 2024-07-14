@@ -12,14 +12,14 @@ Currently, I'm learning .NET API and Android development.
 
 ## What I Do:
 - 🔧 Technologies I work with:
-  - ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-  - ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-  - ![Django](https://img.shields.io/badge/Django-Intermediate-green)
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-purple)
-  - ![SQL](https://img.shields.io/badge/SQL-Intermediate-red)
-  - ![XAMPP](https://img.shields.io/badge/XAMPP-Intermediate-blueviolet)
-  - ![C++](https://img.shields.io/badge/C++-Intermediate-blue)
+  - (https://img.shields.io/badge/HTML-orange)
+  - (https://img.shields.io/badge/CSS-blue)
+  - (https://img.shields.io/badge/JavaScript-yellow)
+  - (https://img.shields.io/badge/Django-green)
+  - (https://img.shields.io/badge/Bootstrap-purple)
+  - (https://img.shields.io/badge/SQL-red)
+  - (https://img.shields.io/badge/XAMPP-blueviolet)
+  - (https://img.shields.io/badge/C++-blue)
 
 ## Let's Connect:
 - 📫 [Email me](tchourse@gmail.com)
