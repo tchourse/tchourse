@@ -1,6 +1,3 @@
-Here’s your updated **GitHub README** focusing on **Data Analysis**, **Power BI**, **PostgreSQL**, and relevant tools:  
-
----
 
 ## **🚀 Hi there! I'm Tushar Chourse** 👋  
 
@@ -18,29 +15,50 @@ I'm a **Data Analyst** passionate about turning raw data into meaningful insight
 ## **🛠 Major Skills**  
 
 ### **📊 Data Analytics & Visualization**  
-- ![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)  
-- ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"> <b>Power BI</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Tableau_Logo.png" width="80"> <b>Tableau</b></td>
+  </tr>
+</table>  
+
+---
 
 ### **🛢️ Databases & SQL**  
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)  
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"> <b>PostgreSQL</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="80"> <b>MySQL</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40"> <b>SQL</b></td>
+  </tr>
+</table>  
+
+---
 
 ### **🐍 Programming & Data Science**  
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"> <b>Python</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"> <b>Jupyter Notebook</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Anaconda_Logo.png" width="80"> <b>Anaconda</b></td>
+  </tr>
+</table>  
 
 ---
 
 ## **📂 Subskills & Other Technologies**  
-- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-- ![XAMPP](https://img.shields.io/badge/XAMPP-%230a5c26.svg?style=for-the-badge&logo=xampp&logoColor=white)  
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"> <b>HTML5</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"> <b>CSS3</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"> <b>JavaScript</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="60"> <b>Django</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"> <b>Bootstrap</b></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/XAMPP-Logo.svg" width="80"> <b>XAMPP</b></td>
+  </tr>
+</table>  
 
 ---
 
@@ -60,4 +78,6 @@ I'm a **Data Analyst** passionate about turning raw data into meaningful insight
 
 ### **📌 Feel free to explore my repositories and reach out. Let's create something awesome together! 🚀**  
 
-Now, just **copy-paste** this into your `README.md` file on GitHub!
+---
+
+
