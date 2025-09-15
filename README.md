@@ -35,8 +35,7 @@ Flask · Django · Git · VS Code · JupyterLab
 
 ---
 
-## 📈 GitHub Stats  
-
+## 📊 GitHub Overview  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchourse&theme=radical" alt="GitHub Profile Details" />
@@ -53,6 +52,7 @@ Flask · Django · Git · VS Code · JupyterLab
 </p>  
 
 ---
+
 
 ## 📈 Featured Projects  
 
