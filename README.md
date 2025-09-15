@@ -37,13 +37,19 @@ Flask · Django · Git · VS Code · JupyterLab
 
 ## 📈 GitHub Stats  
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchourse&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tchourse&theme=radical&hide_border=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchourse&theme=radical" alt="GitHub Profile Details" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchourse&layout=compact&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tchourse&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchourse&theme=radical" height="180" />
+</p>  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchourse&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tchourse&theme=radical&utcOffset=5.5" height="180" />
 </p>  
 
 ---
